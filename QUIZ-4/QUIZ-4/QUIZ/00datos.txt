@@ -1,0 +1,9 @@
+Nombre:
+Adrián González Hernando
+José María Vírseda Bang
+
+Mejoras:
+	1.- Gestos: Cuando pulsas la pantalla con el teclado abierto, desaparece el teclado.
+	2.- Alerta: Hemos decido añadir alertas para informar al usuario, ademas de por
+un label, para saber si ha acertado.
+Grupo: g804
